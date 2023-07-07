@@ -23,4 +23,7 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 tr:hover{background-color:turquoise}
+.foot{
+	text-align:left;
+}
 
