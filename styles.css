@@ -1,14 +1,26 @@
 
 /* Your CSS Code here. */
 .rosh{
-	background-color:black;
+	background-color:deepskyblue;
 	color:white;
 	font:monospace
 	
 }
 .table{
 	font:monospace;
+	color:purple;
 	text:end;
 	fw:bold;
+	overflow-x:auto;
+	 border-collapse: collapse;
+      width: 100%;
+	background-color:lightcyan
 	
 }
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+tr:hover{background-color:turquoise}
+
