@@ -14,7 +14,8 @@
 	overflow-x:auto;
 	 border-collapse: collapse;
       width: 100%;
-	background-color:lightcyan
+	background-color:lightcyan;
+	size:
 	
 }
 th, td {
@@ -30,6 +31,7 @@ th, td {
 	background-color:lighten
 }
 tr:hover{background-color:turquoise}
+
 
 
 
