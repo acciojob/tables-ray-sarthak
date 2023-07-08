@@ -1,37 +1,4 @@
 
-/* Your CSS Code here. */
-.rosh{
-	background-color:deepskyblue;
-	color:white;
-	font:monospace
-	
-}
-.table-responsive{
-	font:monospace;
-	color:purple;
-	text:end;
-	fw:bold;
-	overflow-x:auto;
-	 border-collapse: collapse;
-      width: 100%;
-	background-color:lightcyan;
-	size:
-	
-}
-th, td {
-  padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #ddd;
-}
-
-.table-dark{
-	background-color:darken;
-}
-.table-light{
-	background-color:lighten
-}
-tr:hover{background-color:turquoise}
-
 
 
 
